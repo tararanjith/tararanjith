@@ -9,9 +9,8 @@
 - Python | Django | HTML/CSS | MySQL
 
 ### 📌 Highlight Projects
-- **[Houseboat Booking System](repo-link)** — Django project with user auth and pricing filters
-- **[EN-HI Translator](repo-link)** — NLP project using Facebook’s mBART
-- **[HackerRank Python Solutions](repo-link)** — 50+ solved DSA problems
+- **[Houseboat Booking System](https://github.com/tararanjith/houseboat_booking_system)** — Django project with user auth and pricing filters
+- **[EN-HI Translator](https://github.com/tararanjith/translation-en-to-hi)** — NLP project using Facebook’s mBART
 
 ### 📫 Connect with Me
 - 📧 tararanjith007@gmail.com
