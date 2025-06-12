@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Tara — a 3rd year AI&DS student
 
 - 🎓 B.Tech AI&DS | RSET,Kakkanad | Graduating 2026
-- 🔭 I’m currently working on a Django-based web app
-- 🌱 Learning: FastAPI, Django, Hackerank DSA grind
+- 🔭 I’m currently working on a Flask and React based chatbot
+- 🌱 Learning: FastAPI, Django, React, Hackerank DSA grind
 - 💡 Interested in Backend Development and AI/ML
 
 ### 🛠️ Tech Stack
