@@ -13,11 +13,8 @@
 - [**AI Powered Chatbot**](https://github.com/tararanjith/company-chatbot)  
   Nova chatbot that answers company related queries.
   
-- [**Houseboat Booking System**](https://github.com/tararanjith/houseboat_booking_system)  
-  Django project with user authentication and pricing filters.
-
-- [**Titanic Survival Prediction**](https://github.com/tararanjith/titanic-survival-prediction)  
-  A Streamlit-based ML web app that predicts Titanic passenger survival using scikit-learn.
+- [**PDF Chatbot**](https://github.com/tararanjith/pdf-chatbot)  
+  Chatbot that answers questions on the PDF that the user uploads
 
 
 ###  Connect with Me
